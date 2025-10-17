@@ -23,31 +23,31 @@ Short “About Me” section
 
 Table of Contents linking to each section
 
-1. 🗣️ Business Communication #business-communication
+##Business Communication
 
 Evidence:
 
 Reflection (STAR):
 
-2. 💬 Interview Skills
+##Interview Skills
 
 Evidence:
 
 Reflection (STAR):
 
-3. 🎥 Mock Interview
+##Mock Interview
 
 Evidence:
 
 Reflection (STAR):
 
-4. 🌐 Professional Networking
+##Professional Networking
 
 Evidence:
 
 Reflection (STAR):
 
-5. 🏢 Workplace Etiquette
+##Workplace Etiquette
 
 Evidence:
 
