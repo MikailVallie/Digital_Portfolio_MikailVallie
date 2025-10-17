@@ -23,39 +23,44 @@ Student Number: 230259200
 ## Business Communication
 
 Evidence:
+
 <img width="1200" height="600" alt="BusinessCommunication" src="https://github.com/user-attachments/assets/bf688183-03d5-4daf-8389-56da52122ffb" />
 
-Reflection (STAR):
+Reflection:
 
 ## Interview Skills
 
 Evidence:
+
 <img width="1200" height="600" alt="InterviewSkills" src="https://github.com/user-attachments/assets/e0eadec3-0528-411e-b285-c13eaf8f53d6" />
 
 
-Reflection (STAR):
+Reflection:
 
 ## Mock Interview
 
 Evidence:
+
 https://github.com/wil-it2025/cv-tutorial-MikailVallie/blob/main/Interview.mp4
 
-Reflection (STAR):
+Reflection:
 
 ## Professional Networking
 
 Evidence:
+
 <img width="1200" height="600" alt="ProfessionalNetworking" src="https://github.com/user-attachments/assets/46897394-10cf-4b96-9bbd-f639e01e39dc" />
 
 
-Reflection (STAR):
+Reflection:
 
 ## Workplace Etiquette
 
 Evidence:
+
 <img width="1200" height="600" alt="WorkplaceEtiquette" src="https://github.com/user-attachments/assets/a274fd98-0931-4993-a9f2-1044ccaf8e76" />
 
 
-Reflection (STAR):
+Reflection:
 
 
