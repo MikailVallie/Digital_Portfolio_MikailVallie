@@ -4,6 +4,12 @@
 I am a Diploma in ICT:Application Development student specializing in software development. My interests include full-stack development, UI/UX design, and creative problem-solving. 
 This portfolio showcases my work readiness training and personal development using the STAR reflection method.
 
+Course: Diploma in ICT:Application Development
+
+Subject: Project Presentation 3 (PRP370S)
+
+Student Number: 230259200
+
 ---
 
 ## Table of Contents
@@ -13,15 +19,6 @@ This portfolio showcases my work readiness training and personal development usi
 4. [Professional Networking](#professional-networking)
 5. [Workplace Etiquette](#workplace-etiquette)
 
-Course: Diploma in ICT:Application Development
-
-Subject: Project Presentation 3 (PRP370S)
-
-Student Number
-
-Short “About Me” section
-
-Table of Contents linking to each section
 
 ## Business Communication
 
@@ -29,7 +26,7 @@ Evidence:
 
 Reflection (STAR):
 
-##Interview Skills
+## Interview Skills
 
 Evidence:
 
